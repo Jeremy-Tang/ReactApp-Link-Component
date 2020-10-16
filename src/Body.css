@@ -1,0 +1,28 @@
+.body {
+    font-family: Open Sans,sans-serif;
+    font-size: 20px;
+    line-height: 1.42857;
+    color: black;
+    text-align: center;
+}
+.body h1{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+.body h2{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+.body p{
+    display: inline-block;
+    text-align: center;
+    max-width: 1000px;
+}
+.Container{
+    font-size: 25px;
+    text-align: center;
+}
